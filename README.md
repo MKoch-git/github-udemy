@@ -1,7 +1,9 @@
 # Project
 
-## Introduction#
+## Introduction
 
 ## Purpose
+
+## Deployment
 
 ## Hot to contribute
