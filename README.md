@@ -1,2 +1,7 @@
-# github-udemy
-Repository for  course "Git Complete: The definitive, step-by-step guide to Git"
+# Project
+
+## Introduction#
+
+## Purpose
+
+## Hot to contribute
