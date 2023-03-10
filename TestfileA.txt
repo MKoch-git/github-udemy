@@ -1,4 +1,1 @@
 TestfileA created remote
-ein kleine Änderung
-ein lokale Änderung
-ein remote Änderung
