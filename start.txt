@@ -1,5 +1,4 @@
 Git Quick Start demo
-Etwas neuer Text
+Stashing
 
-Ueben Rebase, dafür etwas Text
-Ueben Rebase, dafür etwas Text2
+Some more changes
