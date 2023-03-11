@@ -1,1 +1,3 @@
 EIn sinnvoller text
+
+Stash example
